@@ -93,7 +93,7 @@ const LANGUAGES = {
 		flag: '🇨🇳',
 		translations: {
 			// Login and main UI
-			'ui.enter_node': '进入新的节点',
+			'ui.enter_node': '开个房，聊个天！',
 			'ui.username': '用户名',
 			'ui.node_name': '节点名称',
 			'ui.node_password': '节点密码',
